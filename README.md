@@ -133,13 +133,13 @@
         <h2>Coordinators</h2>
         <h3>From Manchester Metropolitan University:</h3>
         <ul>
-            <li>Shumyl</li>
-            <li>Tawakalit</li>
-            <li>Seun</li>
+            <li>Dr. Seun Ajao</li>
+            <li>Tawakalit Omolabake Agboola</li>
+            <li>Muhammad Shumyl Akbar</li>
         </ul>
         <h3>From NHS:</h3>
         <ul>
-            <li>Zuing Li</li>
+            <li>Zenas Yiu</li>
         </ul>
     </section>
     <footer>
