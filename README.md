@@ -129,6 +129,15 @@
         <h2>Innovative Techniques in Social Media Analysis</h2>
         <p>The adoption of cutting-edge technologies allows us to explore and understand social media interactions related to drug safety in unprecedented ways. Our innovative approach helps us to identify trends, patterns, and potential safety concerns, contributing to the safer use of dermatological treatments.</p>
     </section>
+    <section>
+        <h2>Visualizations and Data Insights</h2>
+        <p>Below are some of the key visualizations that provide insights into our research findings:</p>
+        <div class="visualizations">
+            <img src="https://drive.google.com/uc?export=view&id=1jNsFu7Z5g8HN8pmVPMDMfXLnYAl8XtWT" alt="Graph 1 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
+            <img src="https://drive.google.com/uc?export=view&id=1P1m7q7YQ_BWFjU_P0JUORds6571Z4qsV" alt="Graph 2 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
+            <img src="https://drive.google.com/uc?export=view&id=1ss1XK4NDyTsRFLn884PkBZJFmClwK_Kp" alt="Graph 3 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
+        </div>
+    </section>
     <section class="coordinators">
         <h2>Coordinators</h2>
         <h3>From Manchester Metropolitan University:</h3>
