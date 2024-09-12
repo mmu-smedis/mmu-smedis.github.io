@@ -36,17 +36,13 @@
             margin: 20px 0;
         }
 
-        .organization-logos div {
-            text-align: center;
+        .organization-logos img {
+            max-width: 200px;
             margin: 0 20px;
         }
 
-        .organization-logos img {
-            max-width: 200px;
-            margin-bottom: 10px;
-        }
-
         .organization-logos p {
+            text-align: center;
             margin: 0;
         }
 
@@ -109,8 +105,7 @@
     </header>
     <div class="organization-logos">
         <div>
-            <img src="https://peopleshistorynhs.org/wp-content/uploads/2016/01/nhs-logo-880x4951.jpeg" alt="NHS Logo">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2AmVJyrYvpb-XayyiwPFoNZW5iPEdkSE9g&s" alt="NCA Logo">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2AmVJyrYvpb-XayyiwPFoNZW5iPEdkSE9g&s" alt="NHS Logo">
             <p>NHS/NCA</p>
         </div>
         <div>
