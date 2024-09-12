@@ -76,6 +76,19 @@
             margin: 5px 0;
         }
 
+        /* Flexbox for Images */
+        .visualizations {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .visualizations img {
+            max-width: 45%; /* Adjust the size of the images */
+            height: auto;
+        }
+
         /* Footer Styles */
         footer {
             background: #007acc;
@@ -95,6 +108,10 @@
 
             .organization-logos img {
                 margin: 10px 0;
+            }
+            
+            .visualizations img {
+                max-width: 90%; /* Adjust width for smaller screens */
             }
         }
     </style>
@@ -133,9 +150,9 @@
         <h2>Visualizations and Data Insights</h2>
         <p>Below are some of the key visualizations that provide insights into our research findings:</p>
         <div class="visualizations">
-            <img src="https://i.postimg.cc/8C5mPX3J/image-1.png" alt="Graph 1 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
-            <img src="https://i.postimg.cc/SRrn9kYy/Rinvoq.png" alt="Graph 2 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
-            <img src="https://i.postimg.cc/L6DPYBjz/Upadacitinib.png" alt="Graph 3 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
+            <img src="https://i.postimg.cc/8C5mPX3J/image-1.png" alt="Graph 1 Description">
+            <img src="https://i.postimg.cc/SRrn9kYy/Rinvoq.png" alt="Graph 2 Description">
+            <img src="https://i.postimg.cc/L6DPYBjz/Upadacitinib.png" alt="Graph 3 Description">
         </div>
     </section>
     <section class="coordinators">
