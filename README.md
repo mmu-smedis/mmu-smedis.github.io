@@ -36,13 +36,17 @@
             margin: 20px 0;
         }
 
-        .organization-logos img {
-            max-width: 200px;
+        .organization-logos div {
+            text-align: center;
             margin: 0 20px;
         }
 
+        .organization-logos img {
+            max-width: 200px;
+            margin-bottom: 10px;
+        }
+
         .organization-logos p {
-            text-align: center;
             margin: 0;
         }
 
@@ -106,7 +110,8 @@
     <div class="organization-logos">
         <div>
             <img src="https://peopleshistorynhs.org/wp-content/uploads/2016/01/nhs-logo-880x4951.jpeg" alt="NHS Logo">
-            <p>NHS</p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2AmVJyrYvpb-XayyiwPFoNZW5iPEdkSE9g&s" alt="NCA Logo">
+            <p>NHS/NCA</p>
         </div>
         <div>
             <img src="https://healthinnovationmanchester.com/wp-content/uploads/2018/10/MMU-post.png" alt="Manchester Metropolitan University Logo">
@@ -137,7 +142,7 @@
             <li>Tawakalit Omolabake Agboola</li>
             <li>Muhammad Shumyl Akbar</li>
         </ul>
-        <h3>From NHS:</h3>
+        <h3>From NHS/NCA:</h3>
         <ul>
             <li>Dr. Zenas Yiu</li>
         </ul>
