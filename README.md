@@ -134,6 +134,8 @@
         <p>Below are some of the key visualizations that provide insights into our research findings:</p>
         <div class="visualizations">
             <img src="https://i.postimg.cc/8C5mPX3J/image-1.png" alt="Graph 1 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
+            <img src="https://i.postimg.cc/SRrn9kYy/Rinvoq.png" alt="Graph 2 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
+            <img src="https://i.postimg.cc/L6DPYBjz/Upadacitinib.png" alt="Graph 3 Description" style="max-width: 100%; height: auto; margin: 10px 0;">
         </div>
     </section>
     <section class="coordinators">
