@@ -28,12 +28,19 @@
             margin: 0;
         }
 
+        header h2 {
+            margin: 0;
+            font-size: 1.2em;
+            margin-top: 5px;
+        }
+
         /* Image Styles */
         .organization-logos {
             display: flex;
             justify-content: center;
             align-items: center;
             margin: 20px 0;
+            flex-direction: column; /* Align the logos vertically */
         }
 
         .organization-logos img {
@@ -44,6 +51,15 @@
         .organization-logos p {
             text-align: center;
             margin: 0;
+        }
+
+        .main-image {
+            text-align: center;
+        }
+
+        .main-image img {
+            max-width: 300px; /* Adjust this as needed */
+            margin-bottom: 20px;
         }
 
         /* Section Styles */
@@ -95,8 +111,8 @@
             color: #fff;
             text-align: center;
             padding: 10px 0;
-            position: fixed;
-            width: 100%;
+            position: relative;
+            width: 100%; /* Ensure full-width footer */
             bottom: 0;
         }
 
@@ -119,7 +135,14 @@
 <body>
     <header>
         <h1>SMEDIS</h1>
+        <h2>Social Media Dermatological Intervention Study</h2>
     </header>
+
+    <!-- New main image added -->
+    <div class="main-image">
+        <img src="https://i.postimg.cc/dtHYyzxq/image-4.png" alt="SMEDIS Main Logo">
+    </div>
+
     <div class="organization-logos">
         <div>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2AmVJyrYvpb-XayyiwPFoNZW5iPEdkSE9g&s" alt="NHS Logo">
@@ -130,6 +153,7 @@
             <p>Manchester Metropolitan University</p>
         </div>
     </div>
+    
     <section>
         <h2>Research Support for the Social Media Dermatological Intervention Study (SMEDIS)</h2>
         <p>Our team is dedicated to providing comprehensive research support for the Social Media Dermatological Intervention Study (SMEDIS). Our primary focus is on assisting with research data collection and analysis, as well as disseminating our findings to relevant research groups and contacts. Our goal is to enhance understanding and safety of drug interactions through social media platforms.</p>
