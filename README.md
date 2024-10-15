@@ -35,31 +35,26 @@
         }
 
         /* Image Styles */
+        .main-image {
+            text-align: center;
+            margin-top: 20px; /* Add gap between the blue header and the SMEDIS logo */
+        }
+
+        .main-image img {
+            max-width: 300px;
+            margin-bottom: 20px;
+        }
+
         .organization-logos {
             display: flex;
             justify-content: center;
             align-items: center;
             margin: 20px 0;
-            flex-direction: column; /* Align the logos vertically */
+            gap: 40px; /* Add consistent gap between the logos */
         }
 
         .organization-logos img {
             max-width: 200px;
-            margin: 0 20px;
-        }
-
-        .organization-logos p {
-            text-align: center;
-            margin: 0;
-        }
-
-        .main-image {
-            text-align: center;
-        }
-
-        .main-image img {
-            max-width: 300px; /* Adjust this as needed */
-            margin-bottom: 20px;
         }
 
         /* Section Styles */
@@ -101,7 +96,7 @@
         }
 
         .visualizations img {
-            max-width: 45%; /* Adjust the size of the images */
+            max-width: 45%;
             height: auto;
         }
 
@@ -112,7 +107,7 @@
             text-align: center;
             padding: 10px 0;
             position: relative;
-            width: 100%; /* Ensure full-width footer */
+            width: 100%;
             bottom: 0;
         }
 
@@ -127,7 +122,7 @@
             }
             
             .visualizations img {
-                max-width: 90%; /* Adjust width for smaller screens */
+                max-width: 90%;
             }
         }
     </style>
