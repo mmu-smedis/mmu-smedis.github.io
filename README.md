@@ -146,11 +146,9 @@
     <div class="organization-logos">
         <div>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2AmVJyrYvpb-XayyiwPFoNZW5iPEdkSE9g&s" alt="NHS Logo">
-            <p>NHS/NCA</p>
         </div>
         <div>
             <img src="https://healthinnovationmanchester.com/wp-content/uploads/2018/10/MMU-post.png" alt="Manchester Metropolitan University Logo">
-            <p>Manchester Metropolitan University</p>
         </div>
     </div>
     
